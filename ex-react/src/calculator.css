@@ -1,0 +1,22 @@
+#Screen {
+  background-color: #858694;
+  color: white;
+  text-align: right;
+  font-weight: 200;
+  width: 100%;
+  height: 20%; }
+
+#ButtonBoard {
+  width: 100%;
+  height: 80%; }
+  #ButtonBoard .button {
+    width: 25%;
+    height: 20%;
+    border: 1px solid black;
+    background-color: white;
+    color: black; }
+
+#screenValue {
+  text-align: right; }
+
+/*# sourceMappingURL=calculator.css.map */

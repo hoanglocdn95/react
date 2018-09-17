@@ -1,0 +1,31 @@
+#screenValue {
+    background-color: #858694;
+    color: white;
+    text-align: right;
+    height: 100%; 
+    text-align: right;
+    padding-right: 30px;
+}
+@media (min-width: 400px) and (min-height: 400px) {
+    #screenValue {
+      font-size: 35px;
+    }
+  }
+  
+  @media (min-width: 500px) and (min-height: 500px) {
+    #screenValue {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 600px) and (min-height: 600px) {
+    #screenValue {
+      font-size: 65px;
+    }
+  }
+  
+  @media (min-width: 800px) and (min-height: 800px) {
+    #screenValue {
+      font-size: 80px;
+    }
+  }

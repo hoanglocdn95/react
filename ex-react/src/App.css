@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+#app{
+  height: 100%;
+  background-color: aquamarine;
+}
+#Screen{
+  height: 20%;
+}
+#ButtonBoard{
+  height: 80%;
+}
